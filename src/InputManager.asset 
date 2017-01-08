@@ -1,0 +1,392 @@
+# This file is the Input Manager for our VR Horror Project. It allows Xbox 360 Controller usage for all desktop platforms.
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!13 &1
+InputManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Axes:
+  - serializedVersion: 3
+    m_Name: MacButtonA
+    descriptiveName: A Button for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 16
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonB
+    descriptiveName: B Button for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 17
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonX
+    descriptiveName: X Button for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 18
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonY
+    descriptiveName: Y Button for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 19
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonA
+    descriptiveName: A Button for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 0
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonB
+    descriptiveName: B Button for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 1
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonX
+    descriptiveName: X Button for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 2
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonY
+    descriptiveName: Y Button for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 3
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonStart
+    descriptiveName: Start Button for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 9
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonSelect
+    descriptiveName: Select Button for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 10
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonRightBumper
+    descriptiveName: Right Bumper for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 14
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonLeftBumper
+    descriptiveName: Left Bumper for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 13
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonLeftStickClick
+    descriptiveName: Left Stick Click for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 11
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacButtonRightStickClick
+    descriptiveName: Left Bumper for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 12
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacAxisLeftAnalogX
+    descriptiveName: Left Analog X Axis for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 0
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonStart
+    descriptiveName: Start Button for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 7
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonSelect
+    descriptiveName: Select Button for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 6
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsAxisLeftAnalogX
+    descriptiveName: Left Analog X Axis for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 0
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonRightBumper
+    descriptiveName: Right Bumper for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 5
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonLeftBumper
+    descriptiveName: Left Bumper for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 4
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonLeftStickClick
+    descriptiveName: Left Stick Click for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 8
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsButtonRightStickClick
+    descriptiveName: Right Stick Click for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: joystick button 9
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 11
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: WindowsAxisLeftAnalogY
+    descriptiveName: Left Analog Y for Windows
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 1
+    joyNum: 1
+  - serializedVersion: 3
+    m_Name: MacAxisLeftAnalogY
+    descriptiveName: Left Analog Y for Mac
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 1
+    joyNum: 1
